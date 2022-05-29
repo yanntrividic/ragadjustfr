@@ -1,7 +1,7 @@
 Rag Adjust
 ==========
 
-A bit of JavaScript to automatically fix the rag of any body of text. Where you allow your lines to break in a block of text can be very important for readability, and quite tricky within a fluid layout. With this script you can set how and where you want your lines to break, creating a much more pleasing text rag.
+A bit of JavaScript to automatically fix the rag of any body of text. Where you allow your lines to break in a block of text can be very important for readability, and quite tricky within a fluid layout. With this script you can set how and where you want your lines to break, creating a much more pleasing text rag. This repository is a fork of Nathan Ford's work and was adapted to french by implementing support for diacritics and french prepositions.
 
 ## Setup
 
@@ -57,6 +57,32 @@ Rag Adjust will work in all modern browsers and IE8+.
 
 ## Appendix: Prepositions matched
 
-* aboard* about* above* across* after* against* along* amid* among* anti* around* before* behind* below* beneath* beside* besides* between* beyond* concerning* considering* despite* down* during* except* excepting* excluding* following* from* inside* into* like* minus* near* onto* opposite* outside* over* past* plus* regarding* round* save* since* than* that* this* through* toward* towards* under* underneath* unlike* until* upon* versus* with* within* without
-
-#### Suggestions, questions or concerns? nathan@artequalswork.com
+* après
+* avant
+* avec
+* chez
+* concernant
+* contre
+* dans
+* depuis
+* derrière
+* dès
+* durant
+* entre
+* hormis
+* jusqu'à
+* jusque
+* loin
+* malgré
+* moyennant
+* outre
+* parmi
+* pour
+* près
+* sans
+* selon
+* sous
+* suivant
+* touchant
+* très
+* vers
