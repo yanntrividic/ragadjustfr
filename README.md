@@ -50,7 +50,7 @@ ragadjust(elements, method, exceptions);
   - _emphasis_ – Text of three or less words in bold or italics does not break across lines.
   - _small-words_ – Breaks lines before words of three or less characters.
   - _articles_ – Breaks lines before articles.
-  - _conjonctions_ – Breaks lines before conjuctions.
+  - _conjonctions_ – Breaks lines before conjunctions.
   - _determinants_ – Breaks lines before determinants.
   - _short_prepositions_ – Breaks lines before shortdeterminants.
   - _prepositions_ – Breaks lines before the other prepositions.
@@ -123,7 +123,8 @@ Short prepositions
 * en
 * de
 * sur
-* par]
+* par
+
 Other prepositions
 * après
 * avant
