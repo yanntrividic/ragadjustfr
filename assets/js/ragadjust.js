@@ -3,6 +3,7 @@
 // "Use it however you like. I'll add a GPL I think as soon as I can." licence
 
 // Forked by Yann Trividic and Nicolas Taffin
+// https://github.com/yanntrividic/ragadjustfr
 
 // TODO: 
 // Make the tool language independant by supporting the lang attribute
@@ -13,7 +14,7 @@
 arts = ["un", "une", "le", "la", "les", "du", "de", "des", "au", "aux"];
 dets = ["ce", "ces", "cet", "cette", "mes", "tes", "ses", "mon", "ton", "ma", "ta", "son", "sa", "notre", "votre", "leur", "nos", "vos", "leurs"];
 prons = ["je", "tu", "il", "elle", "on", "nous", "vous", "ils", "elles"];
-conjs = ["mais", "où", "et", "donc", "or", "ni", "car", "ou"];
+conjs = ["mais", "où", "et", "donc", "or", "ni", "car", "ou", "que"];
 short = ["à", "y", "en", "de", "sur", "par"];
 preps = ["après", "avant", "avec", "chez", "concernant", "contre", "dans", "depuis", "derrière", "dès", "durant", "entre", "hormis", "jusqu’à", "jusque", "loin", "malgré", "moyennant", "outre", "parmi", "pour", "près", "sans", "selon", "sous", "suivant", "touchant", "très", "vers"];
 
