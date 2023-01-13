@@ -11,7 +11,7 @@ This repository is a fork of Nathan Ford's work and was adapted to french by imp
 
 ### With a regular webpage
 
-First, link to the script in your HTML.
+First, link to the script in your HTML, you'll only need the main script.
 
 ```HTML
 
@@ -44,12 +44,13 @@ Then, in your own JavaScript, set the parameters:
 
 ### With Pagedjs
 
-After setting up a Pagedjs project, you have to link the handler to your HTML at the end of your `body` tag.
+After setting up a Pagedjs project, you have to link the script and the handler to your HTML at the end of your `body` tag.
 
 ```HTML
 
 …
 
+<script src="./js/ragadjust.js" type="text/javascript"></script>
 <script src="./js/ragadjust-hook.js" type="text/javascript"></script>
 
 </body>
