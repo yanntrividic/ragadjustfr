@@ -33,7 +33,7 @@ Then, in your own JavaScript, set the parameters:
 <script src="./js/ragadjust.js" type="text/javascript"></script>
 <script type="text/javascript">
 
-	ragadjust('p, li, dd', ['articles, prepositions'], ['en', 'mon']);
+	ragadjust('p, li, dd', ['articles', 'prepositions'], ['en', 'mon']);
 
 </script>
 
